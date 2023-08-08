@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kale Namrata 
+- 👋 Hi, I’m Namrata Kale
 - 👀 I’m interested in Data Science and Data Analysis.
 - 🌱 I’m currently learning Reinforsment Learning
 - 💞️ I’m looking to collaborate on ...
