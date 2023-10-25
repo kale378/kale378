@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Namrata Kale
 - 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me kalenamrata3@gmail.com
 
